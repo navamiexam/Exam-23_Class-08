@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="24FB6C95-E5F1-4AAB-AEE2-F88EB6FACFB4" version="0">
+	<info>
+		<title>Exam-23_Class-08</title>
+		<description/>
+	</info>
+	<files index="id29" thumbnail="id25" totalSize="2231429">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/fonts/fnt5.woff</file>
+		<file id="id9">data/fonts/fnt6.woff</file>
+		<file id="id10">data/html5-unsupported.html</file>
+		<file id="id11">data/html5.png</file>
+		<file id="id12">data/images/img-02baf833c98b7f6407471bee3f0c7314cf064d1d.png</file>
+		<file id="id13">data/images/img-279188c508dabd56392c8413e6bc4d39f4c04f19.png</file>
+		<file id="id14">data/images/img-3c7ce6512821cc4f49b816c18c81b18fb21f37b9.png</file>
+		<file id="id15">data/images/img-4279799db5d85f0c4749841d243eff56e46dd63c.png</file>
+		<file id="id16">data/images/img-4383eb5349026fe21acea9f24acf93b9d02936c4.png</file>
+		<file id="id17">data/images/img-6706f313cd19dc2c4ceea906e1a849b27fc049db.png</file>
+		<file id="id18">data/images/img-75c68b9f8ccd321737dd64b7a656e423ba305af9.png</file>
+		<file id="id19">data/images/img-a7349861fcf70b7b8ea954e7262924e4dc63a5a3.png</file>
+		<file id="id20">data/images/img-c933661071fd9f8a160432b215a464ed4ce8cfab.png</file>
+		<file id="id21">data/images/img-d0ea6c6e6ac39468c63549cf7f3909749307364f.png</file>
+		<file id="id22">data/images/img-dc1d609a0909eccbafc24a7ec7bc4ed5d2cf0778.png</file>
+		<file id="id23">data/ismplayer/app_store2x.png</file>
+		<file id="id24">data/ismplayer/play.svg</file>
+		<file id="id25">data/ismplayer/preview.png</file>
+		<file id="id26">data/ismplayer/style.css</file>
+		<file id="id27">data/ismplayer/style_mini.css</file>
+		<file id="id28">data/player.js</file>
+		<file id="id29">index.html</file>
+		<file id="id30">ismplayer.html</file>
+		<file id="id31">preview.png</file>
+	</files>
+</presentation>
+
